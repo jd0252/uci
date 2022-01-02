@@ -1,6 +1,4 @@
 from flask import Flask, render_template
-from bson.objectid import ObjectId
-import json
 import pymongo
 import pandas as pd
 import statistics
