@@ -19,3 +19,4 @@ threadpoolctl==3.0.0
 urllib3==1.26.7
 Werkzeug==2.0.2
 zope.interface==5.4.0
+gunicorn==19.3.0
